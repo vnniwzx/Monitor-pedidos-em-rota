@@ -71,7 +71,7 @@ flowchart LR
 Pré-requisito: **Python 3.10+** (no Windows, marque *"Add python.exe to PATH"* na instalação).
 
 ```bash
-git clone https://github.com/SEU-USUARIO/monitor-pedidos-em-rota.git
+git clone https://github.com/vnniwzx/Monitor-pedidos-em-rota.git
 cd monitor-pedidos-em-rota
 
 python -m venv .venv
@@ -138,6 +138,6 @@ Python · Playwright · DataTables (engenharia reversa da API da tabela) · pyte
 ## 👤 Autor
 
 **Vinicius Furtado**: estudante de ADS na FIAP School, futuro engenheiro de software.
-[LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) · [GitHub](https://github.com/SEU-USUARIO)
+[LinkedIn](www.linkedin.com/in/vifurtado) · [GitHub](https://github.com/vnniwzx)
 
 Licença [MIT](LICENSE).
