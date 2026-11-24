@@ -138,6 +138,6 @@ Python · Playwright · DataTables (engenharia reversa da API da tabela) · pyte
 ## 👤 Autor
 
 **Vinicius Furtado**: estudante de ADS na FIAP School, futuro engenheiro de software.
-[LinkedIn](www.linkedin.com/in/vifurtado) · [GitHub](https://github.com/vnniwzx)
+[LinkedIn](https://www.linkedin.com/in/vifurtado/) · [GitHub](https://github.com/vnniwzx)
 
 Licença [MIT](LICENSE).
