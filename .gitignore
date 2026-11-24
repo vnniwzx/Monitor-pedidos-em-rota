@@ -1,0 +1,11 @@
+# ambiente
+.venv/
+__pycache__/
+.pytest_cache/
+
+# dados locais e sensíveis (nunca versionar)
+config.ini
+perfil_navegador/
+relatorios/
+logs/
+*.csv
