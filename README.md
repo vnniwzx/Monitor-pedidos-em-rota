@@ -72,7 +72,7 @@ Pré-requisito: **Python 3.10+** (no Windows, marque *"Add python.exe to PATH"* 
 
 ```bash
 git clone https://github.com/vnniwzx/Monitor-pedidos-em-rota.git
-cd monitor-pedidos-em-rota
+cd Monitor-pedidos-em-rota
 
 python -m venv .venv
 .venv\Scripts\activate            # Linux/Mac: source .venv/bin/activate
@@ -90,8 +90,8 @@ python demo/servidor_simulado.py      # http://127.0.0.1:8000
 Em outro terminal:
 
 ```bash
-python monitor_em_rota.py --login     # faça login (qualquer usuário/senha na demo)
-python monitor_em_rota.py --visivel   # roda a verificação mostrando o navegador
+python Monitor_em_rota.py --login     # faça login (qualquer usuário/senha na demo)
+python Monitor_em_rota.py --visivel   # roda a verificação mostrando o navegador
 ```
 
 > No Windows também dá para usar os atalhos da pasta `scripts/`: `instalar.bat` → `iniciar_demo.bat` → `fazer_login.bat` → `testar.bat` → `agendar.bat`.
@@ -111,8 +111,8 @@ pytest
 ## 📁 Estrutura
 
 ```
-monitor-pedidos-em-rota/
-├── monitor_em_rota.py        # automação principal
+Monitor-pedidos-em-rota/
+├── Monitor_em_rota.py        # automação principal
 ├── demo/
 │   └── servidor_simulado.py  # TMS fake: login, painel, tabela DataTables
 ├── tests/
